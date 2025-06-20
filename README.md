@@ -1,4 +1,4 @@
-# Documentación Completa del Proyecto RenacimientoMaya
+# Proyecto RenacimientoMaya
 
 ## Introducción
 
@@ -166,7 +166,7 @@ npm run format
 ```
 ---
 
-### 11. 
+### 11.Detalles Técnicos y Buenas Prácticas en el Código
 
 El proyecto RenacimientoMaya está pensado para ser robusto, modular y escalable. Aprovecha las mejores prácticas de Vue 3 y herramientas modernas para ofrecer una experiencia ágil, segura y accesible tanto para usuarios finales como para administradores.
 
@@ -174,7 +174,6 @@ Su arquitectura clara y mantenible facilita la incorporación de nuevas funciona
 
 ---
 
-## Detalles Técnicos y Buenas Prácticas en el Código
 
 ### Manejo de Estado Reactivo con Vue Composition API
 
