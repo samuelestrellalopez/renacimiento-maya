@@ -18,6 +18,9 @@ RenacimientoMaya es una SPA (Single Page Application) desarrollada para ofrecer 
 
 ---
 
+```bash
+
+
 ## Estructura del Proyecto
 
 src/
@@ -46,7 +49,7 @@ src/
 ├── App.vue # Componente raíz que integra todo
 └── main.js # Punto de entrada
 
-
+```
 ---
 
 ## Explicación Detallada del Código y Arquitectura
@@ -160,8 +163,11 @@ npm run build
 # Formatear código usando Prettier
 npm run format
 
+```
+---
 
-Final
+### 11. 
+
 El proyecto RenacimientoMaya está pensado para ser robusto, modular y escalable. Aprovecha las mejores prácticas de Vue 3 y herramientas modernas para ofrecer una experiencia ágil, segura y accesible tanto para usuarios finales como para administradores.
 
 Su arquitectura clara y mantenible facilita la incorporación de nuevas funcionalidades, y el enfoque en la experiencia de usuario (UX) garantiza que la aplicación sea fácil de usar y accesible para un público amplio.
