@@ -1,0 +1,35 @@
+@use './variables' as vars;
+
+body {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  color: vars.$text;
+  line-height: 1.6;
+  background-color: vars.$background;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 600;
+  color: vars.$heading-color;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  margin-bottom: 1rem;
+  color: vars.$text;
+}
+
+a {
+  text-decoration: none;
+  color: vars.$primary;
+  font-weight: 500;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+button {
+  font-family: inherit;
+  font-weight: 600;
+}
